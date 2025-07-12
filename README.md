@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/godstone2003/godstone2003/blob/main/images/my.gif?raw=true" href="https://github.com/godstone2003" alt="Hello Coders" width="60%"/> <br>
+  <img src="https://github.com/godstone2003/godstone2003/blob/main/images/my.gif?raw=true" href="https://github.com/godstone2003" alt="Hello Coders" width="40%"/> <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
 </div>
 
