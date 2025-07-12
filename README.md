@@ -20,16 +20,14 @@
 ---
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/anand-mishra-cloud/" target="_blank">
+  <a href="https://www.linkedin.com/in/anand-mishra-72a2a0257/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>&nbsp;&nbsp;
 
   <a href="https://github.com/godstone2003" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/godstone2003/godstone2003/blob/main/images/github-white.png?raw=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-      <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    </picture>
+    
+  <img align="center" alt="GitHub" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    
   </a>
 </p>
 
